@@ -924,6 +924,7 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 | Color Theme                   | [下载][Color Theme Plugin]        |                 |
 | RoboVM                   		 | [下载][RoboVM]                    |                 |
 | Newrelic                      | [下载][newrelic]                  |                 |
+| Git                           | [下载][Git]                       |                 |
 
 [SVN]:http://pan.baidu.com/s/1sjqamOP
 [Genymobile]:http://genymotion.com/
@@ -933,6 +934,7 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 [Color Theme Plugin]:http://eclipsecolorthemes.org/?view=plugin
 [RoboVM]:http://download.robovm.org/eclipse/
 [newrelic]:https://download.newrelic.com/android_agent/eclipse
+[Git]:https://pan.baidu.com/s/1bp1CGyV
 
 ##### Android Studio/IDEA
 | 名称                                         |         下载地址                                  |    使用教程      |
